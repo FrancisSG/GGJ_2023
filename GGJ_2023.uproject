@@ -1,6 +1,13 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{EFE2E927-4EB6-A772-8B35-E9A7618E377B}",
+	"EngineAssociation": "4.26",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "AutoSizeComments",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ae89a2c4ab384de0a3f213b23de324f3"
+		}
+	]
 }
